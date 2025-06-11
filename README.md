@@ -1,2 +1,4 @@
 # sae402
-Jeu de voiture interactif, vroom vroom
+Jeu de voiture interactif, réalisé avec Unity.
+
+Copyright.
